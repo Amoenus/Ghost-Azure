@@ -1,5 +1,4 @@
 {
-    "url" : "https://blog.amoenus.dev",
     "database": {
         "client": "sqlite3",
         "connection": {
