@@ -13,5 +13,6 @@
       "frontend": {
         "maxAge": 600
       }
-    }
+    },
+     "forceAdminSSL": true
 }
